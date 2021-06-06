@@ -105,7 +105,8 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+# Useable timezones found on wiki/List_of_tz_database_time_zones
+TIME_ZONE = 'America/Boise'
 
 USE_I18N = True
 
